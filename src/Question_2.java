@@ -1,5 +1,5 @@
 public class Question_2 {
-//    given x & y, set x continous set bits and y unset.
+//    given x & y, set x continuous set bits and y unset.
     public static void main(String[] args) {
         int x = 2, y = 3;
         int ans = solution(x,y);
